@@ -21,7 +21,7 @@ Most of my time goes into one question: **why do language models still struggle 
 
 I also like knowing how things work underneath. When something feels like magic — tensors, memory allocation — I usually end up writing my own version just to understand it.
 
-## 🔭 Now: GemmaLingua
+## Now: GemmaLingua
 
 **[GemmaLingua](https://github.com/Mark12323/GemmaLingua)** teaches Google's Gemma 4 to read and write Igbo. Training is Python (PyTorch, Hugging Face, QLoRA on a single GPU); the pipeline around it is a Java orchestrator I wrote.
 
@@ -49,21 +49,21 @@ flowchart LR
 | GemmaLingua | … | … | … |
 -->
 
-## 🚀 Shipped
+## Shipped
 
 | Product | What it does |
 |---|---|
 | [**QuietInflame**](https://quietinflame.com) · [![Live](https://img.shields.io/badge/live-quietinflame.com-2ea44f?style=flat-square)](https://quietinflame.com) | Healthcare navigation platform for people living with chronic inflammation. A provider directory built on official US registries (NPPES & CMS), plain-language condition guides, a personal care organizer and an AI Navigator assistant. |
 | [**Craftviewpro**](https://github.com/Mark12323/Craftviewpro) | Enterprise surveillance network backend |
 
-## 🧱 Built to understand
+## Built to understand
 
 | Project | What it is | What I learned |
 |---|---|---|
 | [**JTensor**](https://github.com/Mark12323/JTensor) | Dependency-free tensor library in plain Java | Strides, views, and why a reshape doesn't have to copy |
 | [**Java-Arena**](https://github.com/Mark12323/Java-Arena) | Bump-pointer memory arena | Detecting use-after-reset — the hardest part to get right |
 
-## 🛠️ Other work
+## Other work
 
 | Project | Description |
 |---|---|
@@ -73,7 +73,7 @@ flowchart LR
 
 <sub>Much of my client work at Spavecraft is private and doesn't show up here.</sub>
 
-## ⚙️ Toolbox
+## Toolbox
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,py,pytorch,maven,linux,bash,git&theme=dark" alt="Java, Python, PyTorch, Maven, Linux, Bash, Git" />
@@ -83,7 +83,7 @@ flowchart LR
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![QLoRA](https://img.shields.io/badge/QLoRA-single--GPU%20fine--tuning-6f42c1?style=flat-square)
 
-## 📈 Activity
+## Activity
 
 <div align="center">
   <picture>
