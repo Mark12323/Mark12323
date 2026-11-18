@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mark 👋
+# Hey, I'm Mark
 
 <a href="https://github.com/Mark12323/GemmaLingua">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Fine-tuning+LLMs+for+Nigerian+languages;Java+orchestration+%C3%97+PyTorch+training;Building+things+to+understand+them" alt="Typing intro" />
